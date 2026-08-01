@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: searched
+source: https://retrocausal.ai/security/
+url: https://retrocausal.ai/security/
+certifications:
+- ISO 27001
+controls:
+- Data encrypted at rest and in transit on AWS infrastructure
+- Isolated per-organization storage to prevent cross-customer data compromise
+- Custom IAM with SSO via Azure Active Directory and Okta
+- SIEM via Kibana dashboards and integration with IBM Security QRadar
+- Regular penetration testing and disaster recovery simulations
+- No sub-processors; only Retrocausal's own support team interacts with customer data
+audit:
+- Internal certified ISO 27001 auditors conducting regular audits
+- External audits via Vanta and third-party InfoSec firms
+evidence:
+- source: https://retrocausal.ai/security/
+  keywords: [iso 27001, vanta, siem, penetration testing, encryption]

@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+source: https://retrocausal.ai/security/
+note: >-
+  Retrocausal publishes no public developer API or OpenAPI, so cross-cutting API
+  standards (oauth2, rfc9457, json:api, pagination) cannot be derived. The only
+  conformance signal available is the published information-security program.
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: >-
+    Security page states the company has published and implemented the complete
+    set of policies in accordance with ISO 27001 standards, with certified
+    ISO 27001 internal auditors and external audits via Vanta.
+- id: soc2
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: fedramp
+  conforms: false
+- id: pci-dss
+  conforms: false
