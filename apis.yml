@@ -51,7 +51,7 @@ tags:
 - Company
 - Manufacturing
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Industrial IoT
 - Assembly
 - Worker Safety
@@ -65,6 +65,7 @@ tags_raw:
 - Assembly
 - Worker Safety
 - Ergonomics
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
